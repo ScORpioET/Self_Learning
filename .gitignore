@@ -1,0 +1,4 @@
+Object detection/data/PASCAL VOC 2012/
+Object detection/inference_outputs/images/
+Object detection/outputs/best_model.pth
+Object detection/outputs/last_model.pth
